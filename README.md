@@ -5,8 +5,9 @@ marmot-kv is a key-value database based on Go language, supporting persistent st
 ## Todo
 
 - [x] Basic key-value example
-- [ ] Advanced Data Storage Structure
-- [ ] Read and write operations
+- [x] Advanced Data Storage Structure
+- [x] Read and write operations
+- [x] Test case
 - [ ] Persistence
 - [ ] Index
 - [ ] CLI Tool
